@@ -1,4 +1,4 @@
-class Practice2 {
+class PartiallyFunct {
 
   //FUNCIONES QUE SE APLICAN DE FORMA PARCIAL.
   //Partially applied functions: pasar algunos parámetros o algunos de los argumentos que requiera
